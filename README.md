@@ -1,10 +1,13 @@
 Created by: Nguyen Quoc Thai
+
 Date: 12/04/2024
+
 Reference: [yolov7 github (author: WongKinYiu)](https://github.com/WongKinYiu/yolov7)
 
 # Table of content
 1. [About](#about)
 2. [Propose approach](#propose-approach)
+
     2.1. [Current progress](#current-progress)
 3. [Set up Environment](#set-up-environment)
 

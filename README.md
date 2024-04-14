@@ -50,6 +50,8 @@ Since the limitation in the GPU, I cannot meet the deadline for it. Currently I 
 git clone git clone https://github.com/SkalskiP/yolov7.git
 ```
 
+Then replace the *train.py*, *yolo.py* files from the source by the relavtive files from my repo and add the *yolov7_custom.yaml* in the *cfg/training* folder from my repo to this folder of the author's source.
+
 2. 
 ```
 # Check if your computer has the GPU
